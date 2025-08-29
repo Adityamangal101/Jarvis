@@ -1,2 +1,2 @@
 # Jarvis
-Ai voice assistent
+Ai voice assistance
